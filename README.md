@@ -1,4 +1,4 @@
-# Speech recognition vietnamese
+# Vietnamese text summarization
 ## Description 
 This is a Python repo for vietnamese text summarization using the `vit5-large-vietnews-summarization` model develop by VietAI.
 
